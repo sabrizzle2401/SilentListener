@@ -1,6 +1,6 @@
 User Interface -> AndroidStudio
 Snapshots aus Video -> Open CV
-Hand erkennen
-Hand ausschneiden
-Buchstaben erkennen
+Hand erkennen -> Open CV
+Hand ausschneiden -> Open CV
+Buchstaben erkennen -> Azure Machine Learning
 Text zurück geben
